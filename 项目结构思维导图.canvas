@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "text",
+      "text": "💼 工作日志知识库",
+      "x": 400,
+      "y": 100,
+      "width": 200,
+      "style": { "fontSize": 24, "fontWeight": "bold" }
+    },
+    {
+      "id": "inbox",
+      "type": "text",
+      "text": "📥 00inbox\n收集箱",
+      "x": 100,
+      "y": 250,
+      "width": 120,
+      "style": { "fontSize": 16, "backgroundColor": "#e3f2fd" }
+    },
+    {
+      "id": "areas",
+      "type": "text",
+      "text": "📁 01Areas\n工作领域",
+      "x": 300,
+      "y": 250,
+      "width": 120,
+      "style": { "fontSize": 16, "backgroundColor": "#fff3e0" }
+    },
+    {
+      "id": "resources",
+      "type": "text",
+      "text": "📚 02-Resources\n学习资源",
+      "x": 500,
+      "y": 250,
+      "width": 120,
+      "style": { "fontSize": 16, "backgroundColor": "#e8f5e9" }
+    },
+    {
+      "id": "archives",
+      "type": "text",
+      "text": "📦 03-Archives\n归档",
+      "x": 700,
+      "y": 250,
+      "width": 120,
+      "style": { "fontSize": 16, "backgroundColor": "#fce4ec" }
+    },
+    {
+      "id": "api",
+      "type": "text",
+      "text": "API文档",
+      "x": 200,
+      "y": 380,
+      "width": 100,
+      "style": { "fontSize": 14 }
+    },
+    {
+      "id": "code",
+      "type": "text",
+      "text": "常用代码",
+      "x": 320,
+      "y": 380,
+      "width": 100,
+      "style": { "fontSize": 14 }
+    },
+    {
+      "id": "server",
+      "type": "text",
+      "text": "服务器相关",
+      "x": 440,
+      "y": 380,
+      "width": 100,
+      "style": { "fontSize": 14 }
+    },
+    {
+      "id": "zzs",
+      "type": "text",
+      "text": "郑州全搜索",
+      "x": 560,
+      "y": 380,
+      "width": 100,
+      "style": { "fontSize": 14 }
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "root", "toNode": "inbox" },
+    { "id": "e2", "fromNode": "root", "toNode": "areas" },
+    { "id": "e3", "fromNode": "root", "toNode": "resources" },
+    { "id": "e4", "fromNode": "root", "toNode": "archives" },
+    { "id": "e5", "fromNode": "areas", "toNode": "api" },
+    { "id": "e6", "fromNode": "areas", "toNode": "code" },
+    { "id": "e7", "fromNode": "areas", "toNode": "server" },
+    { "id": "e8", "fromNode": "areas", "toNode": "zzs" }
+  ]
+}

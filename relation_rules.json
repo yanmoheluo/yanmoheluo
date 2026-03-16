@@ -1,0 +1,107 @@
+{
+  "PHP": [
+    "PHP 表单验证类",
+    "PHP 常用函数大全",
+    "PHP 常用类库分类",
+    "PHP 统计运行时间",
+    "CentOS+apache+php+mysql.配置"
+  ],
+  "MySQL": [
+    "电力 sql查询",
+    "MySQL 常用查询语句",
+    "MySQL 建表字段规范",
+    "mysqldump 数据库备份",
+    "CentOS+apache+php+mysql.配置"
+  ],
+  "SQL": [
+    "电力 sql查询",
+    "MySQL 常用查询语句",
+    "MySQL 建表字段规范",
+    "mysqldump 数据库备份",
+    "CentOS+apache+php+mysql.配置"
+  ],
+  "Linux": [
+    "Linux 服务器常用命令",
+    "CentOS+apache+php+mysql.配置",
+    "CentOS关闭selinux",
+    "CentOS开启SSH服务",
+    "Linux CentOS  常用命令"
+  ],
+  "CentOS": [
+    "Linux 服务器常用命令",
+    "CentOS+apache+php+mysql.配置",
+    "CentOS关闭selinux",
+    "CentOS开启SSH服务",
+    "Linux CentOS  常用命令"
+  ],
+  "API": [
+    "API 接口索引",
+    ". 韩国客户 调用公司淘宝接口",
+    ". 接口证书到期",
+    "**网站开发前后端接口规范**",
+    "分类接口:"
+  ],
+  "接口": [
+    "API 接口索引",
+    ". 韩国客户 调用公司淘宝接口",
+    ". 接口证书到期",
+    "**网站开发前后端接口规范**",
+    "分类接口:"
+  ],
+  "Git": [
+    "Git 常见问题解决",
+    "git 切换 SSH/HTTP 协议",
+    "git  project问题汇总"
+  ],
+  "AI": [
+    "Cursor 开发汇总 提示词",
+    "Ollama 使用指南：从安装到智能提示转换",
+    "RAG 检索增强生成简介",
+    "构建你的「AI 增强工作流」",
+    "AI提示词 内容创作类（条）"
+  ],
+  "提示词": [
+    "Cursor 开发汇总 提示词",
+    "AI提示词 内容创作类（条）",
+    "AI提示词 学习备考类（条）",
+    "AI提示词 情感类（条）",
+    "AI提示词 日常生活类（条）"
+  ],
+  "Claude": [
+    "Claude Code 中常用命令",
+    "Claude Code 命令详细使用说明",
+    "Claude 通用高效提问模板"
+  ],
+  "Ollama": [
+    "Ollama 使用指南：从安装到智能提示转换"
+  ],
+  "RAG": [
+    "RAG 检索增强生成简介"
+  ],
+  "Obsidian": [
+    "Obsidian 系列教程（一）：安装与设置",
+    "Obsidian 使用基本技巧",
+    "Obsidian 双链的用法和价值"
+  ],
+  "笔记": [
+    "笔记属性",
+    "学习笔记索引",
+    "读书笔记索引",
+    "Node 使用笔记",
+    "NOJS 笔记"
+  ],
+  "学习": [
+    "GoodSync新用户快速入门学习篇",
+    "笔记属性",
+    "AI提示词 学习备考类（条）",
+    "学习笔记索引",
+    "读书笔记索引"
+  ],
+  "读书": [
+    "笔记属性",
+    "学习笔记索引",
+    "读书笔记索引",
+    "Node 使用笔记",
+    "NOJS 笔记"
+  ]
+}
