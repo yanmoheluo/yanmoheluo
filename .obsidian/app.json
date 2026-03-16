@@ -1,0 +1,9 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00inbox",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachment",
+  "openBehavior": "daily",
+  "promptDelete": false
+}
